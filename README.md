@@ -1,4 +1,4 @@
-#Renderly : A 3D Modeling Software in C++ with Raylib
+# Renderly : A 3D Modeling Software in C++ with Raylib
 
 This project is a lightweight 3D modeling tool developed using C++ and Raylib, designed to provide a fundamental 3D modeling environment. The software allows users to load, view, and edit 3D models, with support for basic rendering and essential 3D transformations.
 
